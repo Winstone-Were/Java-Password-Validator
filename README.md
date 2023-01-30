@@ -1,0 +1,3 @@
+Having Simple Passwords can be Risky....
+
+This Simple Java Program validates whether a password is Strong enough or not
